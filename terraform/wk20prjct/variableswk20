@@ -1,0 +1,5 @@
+variable "public_subnets" {
+  default = {
+    "public_subnet_1" = 1
+  }
+  
