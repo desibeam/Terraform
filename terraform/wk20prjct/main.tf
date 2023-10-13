@@ -3,7 +3,7 @@ Deploy an EC2 instance in the default Amazon Virtual Private Cloud (VPC)
 and bootstrap it with Jenkins installation using a script. The goal is to set up a Jenkins server 
 for continuous integration and continuous delivery (CI/CD) purposes.
 
-Contributor / Author:  Joan Owusu
+Contributor / Author:  Desi Beam
 Date:  5/29/2023
 */
 
